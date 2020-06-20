@@ -13,6 +13,7 @@ public class ProjServiceApplication extends Application<Configuration> {
 
     public static void main(String[] args) throws Exception {
         new ProjServiceApplication().run(args);
+        System.out.println("Hello World in feature3");
     }
     @Override
     public void initialize(Bootstrap<Configuration> b){
