@@ -1,0 +1,6 @@
+ProjServiceApplication.class
+ProjServiceModule.class
+manager/StudentManager.class
+entity/StudentEntity.class
+resources/UserResource.class
+manager/StudentManagerImpl.class
