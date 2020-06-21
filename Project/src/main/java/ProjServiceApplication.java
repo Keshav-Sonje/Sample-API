@@ -14,6 +14,7 @@ public class ProjServiceApplication extends Application<Configuration> {
     public static void main(String[] args) throws Exception {
         new ProjServiceApplication().run(args);
         System.out.println("Hello World");
+        System.out.println("commit or reset changes");
     }
     @Override
     public void initialize(Bootstrap<Configuration> b){
